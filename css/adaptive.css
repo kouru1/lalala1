@@ -1,0 +1,65 @@
+@media screen and (max-width: 880px) {
+    nav ul li a {
+        font-size: 8px;
+    }
+    
+.info__text h1 {
+
+}
+
+.info__text p {
+
+}
+
+.info__text a {
+
+}
+
+}
+
+@media screen and (max-width: 609px) {
+    
+.auth button {
+    outline: none;
+    border: none;
+    background-color: #E6FB71;
+    color: aqua;
+    border-radius: 15px;
+    padding: 15x;
+    font-size: 8px;
+}
+}
+
+@media screen and (max-width: 538px) {
+    
+    .auth button {
+        outline: none;
+        border: none;
+        background-color: #E6FB71;
+        color: aqua;
+        border-radius: 15px;
+        padding: 10px;
+        font-size: 5px;
+    }
+    }
+    
+
+@media screen and (max-width: 480px) {
+    nav,
+    .auth {
+        display: none;
+    }
+    
+.info__text h1 {
+font-size: 151px;
+}
+
+.info__text p {
+    font-size: 100px;
+}
+
+.info__text a {
+    font-size: 50px;
+}
+
+}
